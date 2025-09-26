@@ -26,7 +26,7 @@ The following sanitization steps are applied automatically:
 
 ---
 
-### User Customizations
+### 👤 User Customizations
 
 * **Space Removal**
 
