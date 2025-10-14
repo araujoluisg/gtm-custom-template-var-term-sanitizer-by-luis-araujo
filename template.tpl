@@ -1,9 +1,10 @@
-﻿___TERMS_OF_SERVICE___
+___TERMS_OF_SERVICE___
 
 By creating or modifying this file you agree to Google Tag Manager's Community
 Template Gallery Developer Terms of Service available at
 https://developers.google.com/tag-manager/gallery-tos (or such other URL as
 Google may provide), as modified from time to time.
+
 
 ___INFO___
 
@@ -13,7 +14,6 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Term Sanitizer by Luis Araujo",
-  "categories": ["UTILITY"],
   "description": "This term sanitizer is an efficient and robust template that processes text strings, applying a series of transformations to ensure their standardization and cleanliness.",
   "containerContexts": [
     "WEB"
