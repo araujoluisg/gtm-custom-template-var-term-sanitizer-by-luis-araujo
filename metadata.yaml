@@ -2,6 +2,6 @@ homepage: "https://www.linkedin.com/in/luisgaraujo/"
 documentation: "https://araujoluisg.github.io/term-sanitizer-documentation"
 versions:
   # Latest version
-  - sha: 3e2dd3226078a967970ab34454d4f0e41986fd8b
+  - sha: ea2ddad5faba00ae01b098245704fb49b06bc438
     changeNotes: Initial release.
   # Older versions
